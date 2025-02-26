@@ -2,6 +2,23 @@
 <h3 align="center">Ho completato un corso intensivo con <strong>Epicode</strong> che mi ha fornito solide competenze sia nello sviluppo <strong>back-end</strong> che <strong>front-end</strong>. Sono alla ricerca di nuove opportunità per mettere in pratica le mie conoscenze e continuare a crescere professionalmente.</h3>
 
 - 🔭 Attualmente lavoro su [Athelticus CIV](https://github.com/DiegoBas17/athleticusciv-front)
+<h2>Athleticus CIV ⚽</h2>
+<p>
+    <strong>Athleticus CIV</strong> è un <strong>sito web</strong> che sto attualmente sviluppando e migliorando. 
+    Il progetto nasce per gestire un gruppo di calcio amatoriale, permettendo ai giocatori di organizzare partite e interagire tra loro.
+</p>
+<ul>
+    <li>✅ <strong>Gestione del profilo</strong> degli utenti.</li>
+    <li>✅ Possibilità di <strong>partecipare alle partite</strong> create dagli admin.</li>
+    <li>✅ Sistema per <strong>organizzare e visualizzare</strong> gli incontri settimanali.</li>
+    <li>✅ Sezione <strong>news</strong> per aggiornamenti sulla community e sugli eventi.</li>
+    <li>✅ Tracking delle <strong>statistiche personali</strong> (gol, assist e partite giocate).</li>
+</ul>
+<p>
+    Per lo sviluppo ho utilizzato <strong>Spring Security</strong> per gestire l’autenticazione e l’accesso, 
+    garantendo un sistema sicuro e ben strutturato. Il progetto utilizza un database <strong>PostgreSQL</strong> per memorizzare i dati 
+    degli utenti, delle partite e delle statistiche.
+</p>
 
 - 📫 Come contattarmi **d.basili17@gmail.com**
 
