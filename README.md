@@ -1,11 +1,16 @@
 <h1 align="center">Ciao 👋, sono Diego Mauricio Basili Huayhua</h1>
 <h3 align="center">Ho completato un corso intensivo con <strong>Epicode</strong> che mi ha fornito solide competenze sia nello sviluppo <strong>back-end</strong> che <strong>front-end</strong>. Sono alla ricerca di nuove opportunità per mettere in pratica le mie conoscenze e continuare a crescere professionalmente.</h3>
 
-- 🔭 Attualmente lavoro su [Athelticus CIV](https://github.com/DiegoBas17/athleticusciv-front)
 <h2>Athleticus CIV ⚽</h2>
 <p>
     <strong>Athleticus CIV</strong> è un <strong>sito web</strong> che sto attualmente sviluppando e migliorando. 
     Il progetto nasce per gestire un gruppo di calcio amatoriale, permettendo ai giocatori di organizzare partite e interagire tra loro.
+</p>
+<p>
+    🔗 <a href="https://github.com/DiegoBas17/athleticusciv-front" target="_blank"><strong>Athleticus CIV - Front-End</strong></a>
+</p>
+<p>
+    🔗 <a href="https://github.com/DiegoBas17/AtlheticusCIV" target="_blank"><strong>Athleticus CIV - Back-End</strong></a>
 </p>
 <ul>
     <li>✅ <strong>Gestione del profilo</strong> degli utenti.</li>
@@ -19,6 +24,7 @@
     garantendo un sistema sicuro e ben strutturato. Il progetto utilizza un database <strong>PostgreSQL</strong> per memorizzare i dati 
     degli utenti, delle partite e delle statistiche.
 </p>
+
 
 - 📫 Come contattarmi **d.basili17@gmail.com**
 
