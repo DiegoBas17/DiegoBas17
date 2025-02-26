@@ -3,12 +3,11 @@
 
 - 🔭 Attualmente lavoro su [Athelticus CIV](https://github.com/DiegoBas17/athleticusciv-front)
 
-- 📫 Come contattarmi **d.basili17@gmail.com**
-
-<h3 align="left">Contattami:</h3>
+<h3 align="left">📬 Contattami:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/diegobasili117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-mauricio-basili-huayhua-609296195" height="30" width="40" /></a>
-<a href="https://www.instagram.com/diego_basili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diego_basili/" height="30" width="40" /></a>
+<a href="mailto:d.basili17@gmail.com"><img src="https://img.shields.io/badge/Email-d.basili17@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="https://www.linkedin.com/in/diegobasili117" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-DiegoBasili-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/diego_basili/" target="_blank"><img src="https://img.shields.io/badge/Instagram-diego_basili-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </p>
 
 <h3 align="left">Back-End:</h3>
