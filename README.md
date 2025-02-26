@@ -36,10 +36,4 @@
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegobas17&show_icons=true&locale=en&layout=compact" alt="diegobas17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegobas17&show_icons=true&locale=en" alt="diegobas17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegobas17&" alt="diegobas17" /></p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBas17&layout=compact&theme=light)
