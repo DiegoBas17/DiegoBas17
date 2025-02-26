@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono Diego Mauricio Basili Huayhua</h1>
-<h3 align="center">Sono appassionato del mondo della tecnologia, in particolare dello sviluppo, ho completato un corso con Epicode e sono alla ricerca di un nuovo lavoro.</h3>
+<h3 align="center">Ho completato un corso intensivo con <strong>Epicode</strong> che mi ha fornito solide competenze sia nello sviluppo <strong>back-end</strong> che <strong>front-end</strong>. Sono alla ricerca di nuove opportunità per mettere in pratica le mie conoscenze e continuare a crescere professionalmente.</h3>
 
 - 🔭 Attualmente lavoro su [Athelticus CIV](https://github.com/DiegoBas17/athleticusciv-front)
 
@@ -37,3 +37,8 @@
 </p>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBas17&layout=compact&theme=light)
+
+<h3 align="left">📊 Statistiche GitHub:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBas17&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
