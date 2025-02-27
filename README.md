@@ -28,7 +28,7 @@
 <h3 align="left">Contattami:</h3>
 <p align="left">
 <a href="mailto:d.basili17@gmail.com?subject=Contatto%20da%20GitHub&body=Ciao%20Diego,%20ti%20ho%20trovato%20su%20GitHub!">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/diegobasili117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-mauricio-basili-huayhua-609296195" height="30" width="40" /></a>
 <a href="https://www.instagram.com/diego_basili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diego_basili/" height="30" width="40" /></a>
